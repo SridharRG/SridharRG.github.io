@@ -6,7 +6,7 @@
 {{ "<!-- Index -->" | safeHTML }}
 {{ $index := resources.Get "css/index.css" | minify }}
 <link rel="stylesheet" href="{{ $index.Permalink | relURL}}">
-<!--
+ <!--
   _    _
  | |  | |                             /\
  | |__| |   ___   _ __    ___        /  \     _ __    ___    __ _
