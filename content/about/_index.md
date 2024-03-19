@@ -1,13 +1,12 @@
 ---
 title: "About"
-date: 2019-05-12T12:14:34+06:00
-description: "This is meta description."
-author : "Sam Robbins"
-authorImage : "images/about/profile.jpg"
+date: 2024-03-19T12:14:34+06:00
+description: "This is my portfolio"
+author : "SridharRG"
+authorImage : "images/about/pfp.jpeg"
 ---
 
-Hi! I'm Sam, a second year Computer Science student from Durham University. 
+Hi! I'm Sri, a First year Computer Science student from Pondicherry university University. 
 I like doing personal projects, which you will find in the portfolio page of this website. 
-My specialties can be found on the homepage, of which most are web development or cyber security.
+Nothing is perfect, everything is broken in some ways. And that's why this universe is so fascinating.
 
-I am currently available for part time remote work, but will be looking for full time employment from summer 2021.
