@@ -1,13 +1,19 @@
-name = "Developer Portfolio"
-license = "MIT"
-licenselink = "https://github.com/samrobbins85/hugo-developer-portfolio/blob/master/LICENSE"
-description = "A Portfolio website designed for developers"
-homepage = "https://github.com/samrobbins85/hugo-developer-portfolio"
-tags = ["portfolio", "developer", "responsive","uikit"]
-features = ["uikit", "responsive", "features"]
-min_version = "0.54.0"
+name = "Gokarna"
+description = "Gokarna is an opinionated theme with a focus on minimalism and simplicity"
 
-[author]
-    name = "Sam Robbins"
-    homepage = "https://samrobbins.uk/"
+license = "GNU GPLv3"
+licenselink = "https://github.com/526avijitgupta/gokarna/blob/main/LICENSE"
 
+homepage = "https://github.com/526avijitgupta/gokarna"
+demosite = "https://gokarna-hugo.netlify.app"
+
+tags = ["blog", "minimal", "dark", "light", "responsive", "personal", "portfolio"]
+
+features = ["Blog", "Responsive", "Minimal", "Clean", "Simple", "SEO", "Bootstrap", "Fast", "Dark", "Light"]
+
+authors = [
+  {name = "Yash Mehrotra", homepage = "https://yashmehrotra.com"},
+  {name = "Avijit Gupta", homepage = "https://526avijitgupta.github.io"}
+]
+
+min_version = "0.81.0"
