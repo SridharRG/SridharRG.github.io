@@ -1,63 +1,23 @@
-<div uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; bottom: #transparent-sticky-navbar">
-    <nav class="uk-navbar-container uk-margin" uk-navbar="mode: click;" style="padding-right: 3rem">
-        <div class="uk-navbar-right">
-            <ul class="uk-navbar-nav uk-visible@s">
-                {{if .IsHome}}
-                <li class="uk-active "><a style="font-size: 18px; text-transform: none"
-                        href="{{.Site.BaseURL}}">{{ with .Site.Params.Home }} {{ . }} {{ end }}</a></li>
-                {{else}}
-                <li><a style="font-size: 18px; text-transform: none" href="/">{{ with .Site.Params.Home }} {{ . }}
-                        {{ end }}</a></li>
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
 
-                {{end}}
-                {{ range .Site.Menus.main }}
-                {{$aURL := .URL | relLangURL}}
-                {{$page := $.Page.Permalink | relLangURL}}
-                {{$aURL2 := split $aURL "/"}}
-                {{$page2 := split $page "/"}}
-                {{$aURL3 := index $aURL2 1}}
-                {{$page3 := index $page2 1}}
-                {{if eq $aURL3 $page3}}
-                <li class="uk-active"><a style="font-size: 18px; text-transform:none"
-                        href="{{ .URL | relURL }}">{{.Name}}</a></li>
-                {{else}}
-                <li><a style="font-size: 18px; text-transform: none" href="{{ .URL | relURL }}">{{.Name}}</a></li>
-                {{end}}
-                {{end}}
-            </ul>
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
 
-            <a class="uk-navbar-toggle uk-hidden@s" uk-toggle="target: #sidenav" uk-navbar-toggle-icon href="#"></a>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.Description }}{{ end }}">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ "/css/fonts.css" | relURL }}" />
+    {{ range .Site.Params.custom_css -}}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+    {{- end }}
+    {{ partial "head_custom.html" . }}
+  </head>
 
-        </div>
-    </nav>
-</div>
-
-<div id="sidenav" uk-offcanvas="overlay: true">
-    <div class="uk-offcanvas-bar uk-flex uk-flex-column">
-
-        <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
-            {{if .IsHome}}
-            <li class="uk-active"><a style="font-size: 18px" href="{{.Site.BaseURL}}">{{ with .Site.Params.Home }} {{ . }} {{ end }}</a>
-            </li>
-            {{else}}
-            <li><a style="font-size: 18px" href="{{.Site.BaseURL}}">{{ with .Site.Params.Home }} {{ . }} {{ end }}</a></li>
-
-            {{end}}
-            {{ range .Site.Menus.main }}
-            {{$aURL := .URL | relLangURL}}
-            {{$page := $.Page.Permalink | relLangURL}}
-            {{$aURL2 := split $aURL "/"}}
-            {{$page2 := split $page "/"}}
-            {{$aURL3 := index $aURL2 1}}
-            {{$page3 := index $page2 1}}
-            {{if eq $aURL3 $page3}}
-            <li class="uk-active"><a style="font-size: 18px" href="{{ .URL | relURL }}">{{.Name}}</a></li>
-            {{else}}
-            <li><a style="font-size: 18px" href="{{ .URL | relURL }}">{{.Name}}</a></li>
-            {{end}}
-            {{end}}
-        </ul>
-
-    </div>
-</div>
-{{ template "_internal/google_analytics.html" . }}
+  <body>
+    <br/>
