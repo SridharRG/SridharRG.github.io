@@ -2,25 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/categories/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/books/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/example/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/categories/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/07/18/most-universal-tool-of-man/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/thoughts/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/life/</loc>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/07/14/what-makes-me-happy/</loc>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/internship/</loc>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/networks/</loc>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/07/05/why-i-need-a-network-monitoring-tool/</loc>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/digital/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/left/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/political/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/productivity/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/07/04/what-should-i-consume-in-online/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/07/04/why-people-are-apolitical/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/07/04/why-people-are-apolitical/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/dns/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/foss/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/linux/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/networking/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/07/03/setting-up-a-custom-dns-server/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/07/03/why-i-love-linux/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/example/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/markdown/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/2018/08/30/markdown-guide-modified/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/post/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/bullhorn/</loc>

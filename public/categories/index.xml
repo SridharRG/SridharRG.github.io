@@ -6,8 +6,50 @@
     <description>Recent content in Categories on Classic</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts</title>
+      <link>//localhost:1313/categories/thoughts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/thoughts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networks</title>
+      <link>//localhost:1313/categories/networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Political</title>
+      <link>//localhost:1313/categories/political/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/political/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>//localhost:1313/categories/productivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dns</title>
+      <link>//localhost:1313/categories/dns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/dns/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>//localhost:1313/categories/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/linux/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Example</title>
       <link>//localhost:1313/categories/example/</link>

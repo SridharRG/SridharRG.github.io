@@ -153,3 +153,71 @@ which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 #### Images auto center:
 
 ![Party](http://emojis.slackmojis.com/emojis/images/1475875185/1223/party-dinosaur.gif?1475875185)
+
+## To Develop a Remote monitoring tool
+Task assigned:
+- Configure a machine as a web server. Using laptop as your client, do the following:
+- Scan the network and list the devices that are SNMP enabled (Nmap may be used)
+- Query the SNMP enabled devices and store the responses in the client side.
+
+
+#### Web server
+- **web server's** primary function is to accept incoming requests from clients, such as web browsers, and respond with the requested resources, such as HTML pages, etc.
+- **working model of web server**
+    - Request: a browser(client) send http request to web server by specifiying the resouce it wants
+    - Recieves req: receives the request and analyzes it to determine what resource is being requested.
+    - Process the req: auth the client, retrieving from the storage, exec the server side dynamic scrip(js)
+    - Response: web server sends the response back to the client with req resource or its error message it the code
+    - Client receives response: receives the response in browser
+
+  eg. apache, nginx
+
+#### Setting up the web server 
+_Arch linux: EndeavourOS with Plasma6 as DE_
+
+- Started and enabled nginx server with systemctl for daemon use
+`sudo syste![doc2.png](../../../../Pictures/Screenshots/doc2.png "doc2.png") by default it will be in ``/usr/share/nginx/html``
+![example image](/images/doc1.png "An exemplary image")
+
+- check the nginx works or not by using
+    - `ip a` - get the ip address of the system from wlan0
+    - `192.168.0.126` paste this in url of brower
+
+![](../../../../Pictures/Screenshots/doc2.png)
+
+#### To scan the network and look for SNMP enabled devices(_by using nmap_)
+
+
+- installing nmap using pacman - `sudo pacman -S nmap`
+- scanning the nmap `sudo nmap -sU -p 192.168.0.126/24`
+  ![doc3.png](../../../../Pictures/Screenshots/doc3.png)
+  prob because the -p flag shoud mention the port - as nmap uses udp port 161
+- This fixes the problem `sudo nmap -sU -p 161 192.168.0.0/24`
+-  `-sU` specifies a UDP scan
+-  `-p 161` specifies the port number for SNMP
+![doc4.png](../../../../Pictures/Screenshots/doc4.png)
+
+- usually the state will be closed for snmp service
+- to enable snmp in other system
+- install snmp in other local system and edit the conf file for snmpd 
+```path
+sudo nano /etc/snmp/snmpd.conf
+```
+- add these below lines in the snmpd.conf and restart the systemctl service in the another machine(I used another machine as aanisha's lap and done all these configuration)
+```bash
+agentAddress udp:161
+rocommunity public
+```
+![](../../../../Pictures/Screenshots/doc6.png)
+after being changed and restarted the service, the port for the machine is open now as _highlighed above_ and now it is snmp enabled device.
+
+
+### To Query SNMP-enabled devices and store responses on the client side
+
+I'm missing something while querying via snmpget - which is the OID.
+I also tried to fetch OID with smpwalk as mentioned in other community discussion forum of snmp, but everything came out as unreachabe or timeout
+
+- also trying other tools like snmpwalk and snmptranslate
+- I will figure it out soon, this part is taking some time to finish and will soon troubleshoot this and wind it up soon.
+
+

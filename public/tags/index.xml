@@ -6,8 +6,57 @@
     <description>Recent content in Tags on Classic</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>//localhost:1313/tags/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>//localhost:1313/tags/life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internship</title>
+      <link>//localhost:1313/tags/internship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/internship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital</title>
+      <link>//localhost:1313/tags/digital/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/digital/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Left</title>
+      <link>//localhost:1313/tags/left/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/left/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Foss</title>
+      <link>//localhost:1313/tags/foss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/foss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networking</title>
+      <link>//localhost:1313/tags/networking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/networking/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Markdown</title>
       <link>//localhost:1313/tags/markdown/</link>
