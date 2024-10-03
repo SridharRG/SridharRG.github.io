@@ -153,3 +153,47 @@ which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 #### Images auto center:
 
 ![Party](http://emojis.slackmojis.com/emojis/images/1475875185/1223/party-dinosaur.gif?1475875185)
+
+
+
+### Header Colour
+
+Adjust header colour within `static/css/style.css`
+
+```
+header {
+    background: #613DC1;
+}
+```
+
+... `background:` to any colour value you'd like!
+
+For header font:
+
+```
+header a {
+    color: #fff;
+}
+```
+
+Change `color:` to a nice matching colour.
+
+### Darkmode
+
+Match or over-ride system-wide dark/light settings
+
+1. Open `static/css/style.css`
+
+2. Edit the following attributes to match light/dark
+
+```css
+/* darkmode */
+@media (prefers-color-scheme: dark) {
+    ...
+}
+
+/* lightmode */
+@media (prefers-color-scheme: light) {
+    ...
+}
+```
