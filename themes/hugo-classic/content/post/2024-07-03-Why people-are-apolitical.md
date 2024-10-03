@@ -1,4 +1,3 @@
- 
 ---
 title: Why People are apolitical
 author: The comrade bixxzy

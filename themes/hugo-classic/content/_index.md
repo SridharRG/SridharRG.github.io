@@ -1,23 +1,23 @@
 ---
 title: Home
-description: "The personal writings and expressions of Grayfox, otherwise known as you too and everyone else. It is a loving and silly place."
+description: "The personal writings and expressions of Bixxzy. It is a loving and silly place where I express myself."
 ---
 <img
   id="foxy"
-  src="/images/grayf0x.jpg"
-  alt="A foxy face">
+  src="/images/dog.jpg"
+  alt="A cute dog face">
 
-## Welcome, MOFO
+## Welcome home kutties 🏎️💨
 
-### :purple_heart: :earth_africa: :purple_heart:
 
-Born in [Outer Space](https://en.wikipedia.org/wiki/Outer_space), **Bixxzy** - has spent over two decades fiddling with things on the Internet. Today he does nothing, so stop asking.
+Elloww,  **Bixxzy** here. This will be my minimal, no-judgement blog and also this can be considered as my journal sometimes
 
-My greatest joys are darkness and its quietudes.
+My greatest joys are darkness and its quietudes.Today he does nothing, so stop asking.
 
-Welcome to my corner of the internet.
+Consider this as my [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/), btw welcome to my corner of the internet.
 
-<img src="/images/partywizard.gif">
+<!-- <img src="/images/partywizard.gif"> -->
+ <img src="/images/nekojiru2.gif"> 
 
 ---
 

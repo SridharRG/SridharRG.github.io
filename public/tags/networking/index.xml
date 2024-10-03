@@ -15,5 +15,12 @@
       <guid>//localhost:1313/post/2024/07/03/setting-up-a-custom-dns-server/</guid>
       <description>links to proceed with:&#xA;https://www.quora.com/How-do-I-set-up-my-own-DNS-server https://opensource.com/article/17/4/build-your-own-name-server https://meshnet.nordvpn.com/how-to/security/how-to-set-up-your-own-dns-server https://www.howtogeek.com/devops/how-to-run-your-own-dns-server-on-your-local-network/ https://www.pcmag.com/how-to/how-and-why-to-change-your-dns-server https://www.ninjaone.com/blog/how-to-configure-a-dns-server/ https://meshnet.nordvpn.com/how-to/security/protect-network-with-adguard-home Also read about dnsmasq - a free software tool&#xA;https://stevessmarthomeguide.com/home-network-dns-dnsmasq/ https://wiki.archlinux.org/title/Dnsmasq </description>
     </item>
+    <item>
+      <title>Why I need to maintain a server</title>
+      <link>//localhost:1313/post/2024/07/03/why-i-need-to-maintain-a-server/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/07/03/why-i-need-to-maintain-a-server/</guid>
+      <description>Why I need to have a server on my own just because i like it&#xA;Im really interested in having my own little network of things to maintain and work on but i realized that without any big purpose of the equipment its just going to collect dust.&#xA;Privacy, ditching google, owning my data, fun learning and hobby&#xA;We can run anything we want; it does not have to be limited to just websites; you could use it as a shared password manager, host a Mastodon server, use it as a home assistant, sync between devices and more</description>
+    </item>
   </channel>
 </rss>

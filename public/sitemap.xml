@@ -2,28 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/books/</loc>
-    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/categories/blog/</loc>
+    <lastmod>2024-10-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/post/2024/07/18/most-universal-tool-of-man/</loc>
-    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/</loc>
-    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/thoughts/</loc>
-    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/web/</loc>
+    <lastmod>2024-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/10/03/why-we-need-to-have-a-blog/</loc>
+    <lastmod>2024-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/09/16/astro-portfolio-template/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/foss/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/wiki/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/09/16/wiki-that-im-contributing-to/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/foss/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/open-source/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/sotc/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/09/02/things-to-do-for-sotc-wiki/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/09/02/useful-sites-to-bypass-paywal/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/08/29/smart-india-hackathon/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/degoogle/</loc>
+    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/hacker/</loc>
+    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/08/28/removing-bloatware/</loc>
+    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/08/25/hacker-how-to/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/backup/</loc>
+    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/open-source-free-culture/</loc>
+    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/08/10/tools-that-i-came-across-recently/</loc>
+    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/08/10/who-is-actually-getting-benefited-from-foss/</loc>
+    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/sotc-fshm/</loc>
+    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/07/19/things-i-learnt-from-the-collective/</loc>
+    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/life/</loc>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/thoughts/</loc>
     <lastmod>2024-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/2024/07/14/what-makes-me-happy/</loc>
@@ -44,6 +107,9 @@
     <loc>//localhost:1313/tags/left/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/post/2024/07/04/my-train-journey/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/categories/political/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -56,13 +122,7 @@
     <loc>//localhost:1313/post/2024/07/04/why-people-are-apolitical/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/07/04/why-people-are-apolitical/</loc>
-    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/categories/dns/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/foss/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/linux/</loc>
@@ -71,10 +131,16 @@
     <loc>//localhost:1313/tags/networking/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/categories/server/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/post/2024/07/03/setting-up-a-custom-dns-server/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/2024/07/03/why-i-love-linux/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2024/07/03/why-i-need-to-maintain-a-server/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/example/</loc>
@@ -85,29 +151,5 @@
   </url><url>
     <loc>//localhost:1313/post/2018/08/30/markdown-guide-modified/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/bullhorn/</loc>
-    <lastmod>2012-04-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/post/2012/04/23/hacker-with-horn/</loc>
-    <lastmod>2012-04-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/blog/</loc>
-    <lastmod>2012-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/post/2012/03/12/command-line-awesomeness/</loc>
-    <lastmod>2012-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/html/</loc>
-    <lastmod>2012-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/code/</loc>
-    <lastmod>2012-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/juicy/</loc>
-    <lastmod>2012-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/post/2012/01/23/juicy-code/</loc>
-    <lastmod>2012-01-23T00:00:00+00:00</lastmod>
   </url>
 </urlset>

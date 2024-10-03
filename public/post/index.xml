@@ -6,14 +6,84 @@
     <description>Recent content in Posts on Classic</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Most Universal tool of man</title>
-      <link>//localhost:1313/post/2024/07/18/most-universal-tool-of-man/</link>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2024/07/18/most-universal-tool-of-man/</guid>
-      <description>Wheel yes, wheel&#xA;One of the Man&amp;rsquo;s greatest invention of all time. Our very basic movement will somehow have wheel in our life. It has been our day-to-day essential one for work.&#xA;Let us go back to man&amp;rsquo;s early history. At first man tame animals for his use. The first animal to be tamed was the dog. It watch and warned the master approcaching danger&#xA;Man soon discovered that pack of dogs could pull a fairly heavy load.</description>
+      <title>Why we need to have a blog</title>
+      <link>//localhost:1313/post/2024/10/03/why-we-need-to-have-a-blog/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/10/03/why-we-need-to-have-a-blog/</guid>
+      <description>Why write? Writing as crystallized thought, a way of expressing the labyrinth of interconnected, messy, and many time incoherent ideas in my mind. It is a form of knowledge distillation.&#xA;I feel molding thoughts into new forms through language and terminology can give it a new perspective.&#xA;I just want you to read the below post as this kuttiee suggests:&#xA;https://www.henrikkarlsson.xyz/p/search-query Writing for a general public, you need to be broad and a bit bland.</description>
+    </item>
+    <item>
+      <title>Astro Portfolio template</title>
+      <link>//localhost:1313/post/2024/09/16/astro-portfolio-template/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/09/16/astro-portfolio-template/</guid>
+      <description> https://github.com/surjithctly/astroship https://github.com/thomasKn/astro-shopify https://github.com/JustGoodUI/dante-astro-theme https://github.com/sooros5132/notion-blog-kit https://github.com/stefanogali/panini-cake https://github.com/judygab/nextjs-portfolio https://github.com/adrian-ub/adrianub.dev https://github.com/TimWitzdam/astro-minimal-portfolio-template https://github.com/ascorbic/unpic-img https://github.com/zhangyu1818/blog https://github.com/elianiva/elianiva.my.id https://github.com/manuelernestog/astrofy https://github.com/satnaing/astro-paper https://github.com/trevortylerlee/astro-micro https://github.com/compiiile/compiiile https://github.com/markhorn-dev/astro-nano https://github.com/n8n-io/n8n https://github.com/mhyfritz/astro-landing-page </description>
+    </item>
+    <item>
+      <title>Wiki that I&#39;m contributing to</title>
+      <link>//localhost:1313/post/2024/09/16/wiki-that-im-contributing-to/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/09/16/wiki-that-im-contributing-to/</guid>
+      <description>Started with my first wiki contribution For a long time, I was planning to contribute wikipedia as a part of my archival process and long term helpful journey that people would benefit outta it, and then our collective hosted a mediawiki called FSHM wiki which inturn paved my path to contribute it. But I dont have a list of concrete plan to contribute considering my landscape.&#xA;By then, I get to see wiki page of Fosscell NITC, which they have a list of Campus guide which seems informational and helpful to anyone who wanna join there as a fresher.</description>
+    </item>
+    <item>
+      <title>Things to-do for SOTC wiki</title>
+      <link>//localhost:1313/post/2024/09/02/things-to-do-for-sotc-wiki/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/09/02/things-to-do-for-sotc-wiki/</guid>
+      <description>Things to-do Freshers guide to PU locations internship opportunities clubs events yearly health center hostels cells for women safety and harrasments deans evnets archieve library resource gym busses student community festivals nearest phc, hospital Department archieve near campus campus safety farewell, freshers culture pathu thirundhu da</description>
+    </item>
+    <item>
+      <title>Useful sites to bypass paywal</title>
+      <link>//localhost:1313/post/2024/09/02/useful-sites-to-bypass-paywal/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/09/02/useful-sites-to-bypass-paywal/</guid>
+      <description>I wrote this list using some somewhat arbitrary constraints, to narrow it down from the maybe 150 blogs I have in my bookmark:&#xA;there are “a lot” of posts, for some arbitrary definition of “a lot” (there are so many blogs I love where the person has only written like 5 posts!)&#xA;the person has posted in the last 2 years (there are so many blogs I love that have mostly stopped posting!</description>
+    </item>
+    <item>
+      <title>Smart India Hackathon</title>
+      <link>//localhost:1313/post/2024/08/29/smart-india-hackathon/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/08/29/smart-india-hackathon/</guid>
+      <description>How to present for Hackathon Prob statement ID Prob statement Title Theme Category - Software Team id Team name registered in Portal Idea title Concise overview of the idea Explain the solution elaborately. Including details like how it works, its key features, and the overall approach Highlight what makes our solution innovative and different from existing ones. Technical approach Technology stack (prog lang, framework and hardware) system design - outline arch and design Methodology, technique and process for implementation Flow Charts Images provide evidence of working prototype feasibility and viablility analysis of feasibility of idea in terms of technical and practical aspects Potential challenges and risks that could impact the project Suggest ways to overcome these challenges - Strategies target audience and beneficial people Discuss how our solution will affect the target audience.</description>
+    </item>
+    <item>
+      <title>Removing Bloatware</title>
+      <link>//localhost:1313/post/2024/08/28/removing-bloatware/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/08/28/removing-bloatware/</guid>
+      <description>What made me to do this First of all, I dont need unnecessary propritory apps which I&amp;rsquo;m not using a while. The other main thing is I want to get rid of this Google, and badly want to remove all the google service including google play service and gfs. The only thing I&amp;rsquo;m concerned is, if i remove all the google services, i cant use upi scanner apps, banking apps for Indian bank and such things which makes me to hold to remove these google service</description>
+    </item>
+    <item>
+      <title>Hacker - How to</title>
+      <link>//localhost:1313/post/2024/08/25/hacker-how-to/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/08/25/hacker-how-to/</guid>
+      <description>How precious is our data?? Our data is different from materialistic resource because data is unique and priceless.&#xA;Unlike physical resource, which has fixed value and sums up to a linear growth, our data become invaluable when it combines with one another &amp;hellip;not like a linear approcach with materialistic resource.&#xA;The influence of Free Software foundation europe(FSFE) &amp;amp; Chaos Computing club(CCC) in EU plays a significant role in data protection, digital rights and privacy.</description>
+    </item>
+    <item>
+      <title>Tools that I came across recently</title>
+      <link>//localhost:1313/post/2024/08/10/tools-that-i-came-across-recently/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/08/10/tools-that-i-came-across-recently/</guid>
+      <description>##Tools that i came across recently&#xA;When I was randomly scrolling in Reddit, i came across a guy asking about how to backup sites and its content in Data hoarder sub reddit. There is came across this free software tool called httrack which take a backup of all the content in the webpage. I Tried scrapping Prasanna&amp;rsquo;s blog page and the mirror started and scraped the complete file.&#xA;The another tool which i found is rclone from the same r/data hoarders.</description>
+    </item>
+    <item>
+      <title>Who is actually getting benefited from FOSS</title>
+      <link>//localhost:1313/post/2024/08/10/who-is-actually-getting-benefited-from-foss/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/08/10/who-is-actually-getting-benefited-from-foss/</guid>
+      <description>I was questioning myself about Free Software and how it works, now I came to a wider and broader thoughts of conclution and writing my perspective here after surfing into the web&#xA;Question: Linux, being free software, raises the question of who really benefits from it. It seems that the so-called startups or large corporations are the ones truly profiting from this free and open-source software. Somehow its gonna get used by some corporate and the code gets closed which doesn&amp;rsquo;t benefit the society and also doesn&amp;rsquo;t pay back the creator right?</description>
+    </item>
+    <item>
+      <title>Things I learnt from the collective</title>
+      <link>//localhost:1313/post/2024/07/19/things-i-learnt-from-the-collective/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/07/19/things-i-learnt-from-the-collective/</guid>
+      <description>As noordine asked me to write a note for myself that what i observed as a secretary, here it goes&#xA;There is a constant need of our mind-share with our poeple and also with the new people. I should make them feel inclusive in every aspect and induce the learning into them. Experience that i got from SOTC to run an effective meeting make a clear agenda for every meeting meeting host should be clear to the point of what need to be discussed maintain &amp;lt;5 attendees in the meeting make them feel included share them the responsibility make sure all ec members are attending when it is a decision making meeting have a peer-review for everyone and share their work done in the collective for the past month(drives and outcomes) Take minutes of meeting in rotation basis with attendees list, agenda, summary, date, time and opinions shared.</description>
     </item>
     <item>
       <title>What makes me happy</title>
@@ -30,11 +100,18 @@
       <description>Why I need to monitor the network modern understanding of network monitoring needs additional approaches.&#xA;a network traffic analysis Network monitoring collects data from servers, routers, firewalls, switches, etc. The goal is to detect intrusions into networks, identify vulnerabilities, and prevent attacks. Network monitoring can be performed manually or automatically.&#xA;some open source tools are: Nagios Zabbix Cacti Zenoss Munin Netflow Wireshark The best features of Network Monitoring Software are:</description>
     </item>
     <item>
+      <title>My Train Journey</title>
+      <link>//localhost:1313/post/2024/07/04/my-train-journey/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/07/04/my-train-journey/</guid>
+      <description>I love the journey as its not all about the desitnation and its also about the travel in our jouney.&#xA;When we board our train, We were having a nice chitchat about some random things that we usually talks about.&#xA;The last time we were returning from Kozhikode to Pondy, we were witnessing the aweful large mountains throughtout the way near palakad and all were enjoying the moment in our train journey.</description>
+    </item>
+    <item>
       <title>What should I consume in online</title>
       <link>//localhost:1313/post/2024/07/04/what-should-i-consume-in-online/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/post/2024/07/04/what-should-i-consume-in-online/</guid>
-      <description>Substance consuming Problem?? Yes, a substance abuse problem. We are consuming a lot of information irrelevant to our willness but that will eventually get used to us and also will comfort us making us not realize that it sucks our time and that procastination that done is by video content majorly. The one thing i noticed in me that, i have been consuming a lot of reels when i see my digital welbeing dashboard and realizing that these are my peak time which i should stipulate for upskilling myself.</description>
+      <description>Substance consuming Problem?? Yes, a substance abuse problem. We are consuming a lot of information irrelevant to our willness but that will eventually get used to us and also this will comfort us making us not realize that it sucks our time and that procastination that done is by video content majorly. The one thing i noticed in me that, i have been consuming a lot of reels when i see my digital welbeing dashboard and realizing that these are my peak time which i should stipulate for upskilling myself.</description>
     </item>
     <item>
       <title>Why People are apolitical</title>
@@ -42,13 +119,6 @@
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/post/2024/07/04/why-people-are-apolitical/</guid>
       <description> This question always strikes me, whenever people over here are apolitical&#xA;they are comfortable with the current political climate people doesn&amp;rsquo;t care about how society is functioning or they may be extremely priveledged they will throw money and think that their problem disappear and not the society problem. they don&amp;rsquo;t care about the social issues around them becasue it doesn&amp;rsquo;t affect them. they may be willfully ignorant and they avoid forming opinion because it will burst their precious priveledged bubble </description>
-    </item>
-    <item>
-      <title>Why People are apolitical</title>
-      <link>//localhost:1313/post/2024/07/04/why-people-are-apolitical/</link>
-      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2024/07/04/why-people-are-apolitical/</guid>
-      <description>I love the journey as its not all about the desitnation and its also about our travel in our jouney.&#xA;When we board our train, We were having a nice chitchat about some random things that we usually talks about.&#xA;The last time we were returning from Kozhikode to Pondy, we were witnessing the aweful large mountains throughtout the way near palakad and all were enjoying the moment in our train journey.</description>
     </item>
     <item>
       <title>Setting up a custom dns server</title>
@@ -65,32 +135,18 @@
       <description>Why I started using it?? I started using it because I found it cool and I wanted to be so too. It is also less of a pain in the butt compared to Windows. I got used to the Linux way of doing things and I find the way Linux does many things like&#xA;It just works as the way I want the way I install programs the complete freedom of it the transparent nature of it all more appealing than Windows’ way of doing things.</description>
     </item>
     <item>
+      <title>Why I need to maintain a server</title>
+      <link>//localhost:1313/post/2024/07/03/why-i-need-to-maintain-a-server/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/07/03/why-i-need-to-maintain-a-server/</guid>
+      <description>Why I need to have a server on my own just because i like it&#xA;Im really interested in having my own little network of things to maintain and work on but i realized that without any big purpose of the equipment its just going to collect dust.&#xA;Privacy, ditching google, owning my data, fun learning and hobby&#xA;We can run anything we want; it does not have to be limited to just websites; you could use it as a shared password manager, host a Mastodon server, use it as a home assistant, sync between devices and more</description>
+    </item>
+    <item>
       <title>Markdown Guide (modified)</title>
       <link>//localhost:1313/post/2018/08/30/markdown-guide-modified/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/post/2018/08/30/markdown-guide-modified/</guid>
       <description>An h1 header Paragraphs are separated by a blank line.&#xA;2nd paragraph. Italic, bold, and monospace. Itemized lists look like:&#xA;this one that one the other one Note that &amp;mdash; not considering the asterisk &amp;mdash; the actual text content starts at 4-columns in.&#xA;Block quotes are written like so.&#xA;They can span multiple paragraphs, if you like.&#xA;Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., &amp;ldquo;it&amp;rsquo;s all in chapters 12&amp;ndash;14&amp;rdquo;).</description>
-    </item>
-    <item>
-      <title>Hacker with Bullhorn</title>
-      <link>//localhost:1313/post/2012/04/23/hacker-with-horn/</link>
-      <pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2012/04/23/hacker-with-horn/</guid>
-      <description>Hacker with bullhorn: &amp;ldquo;Save your money! Accept one of our free tanks! It is invulnerable, and can drive across rocks and swamps at ninety miles an hour while getting a hundred miles to the gallon!&amp;rdquo;&#xA;Prospective station wagon buyer: &amp;ldquo;I know what you say is true&amp;hellip;but&amp;hellip;er&amp;hellip;I don&amp;rsquo;t know how to maintain a tank!&amp;rdquo;&#xA;Bullhorn: &amp;ldquo;You don&amp;rsquo;t know how to maintain a station wagon either!&amp;rdquo;&#xA;Buyer: &amp;ldquo;But this dealership has mechanics on staff.</description>
-    </item>
-    <item>
-      <title>Command Line Awesomeness</title>
-      <link>//localhost:1313/post/2012/03/12/command-line-awesomeness/</link>
-      <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2012/03/12/command-line-awesomeness/</guid>
-      <description>This crud is called HTML (HyperText Markup Language) and it is basically a very simple programming language instructing your web browser how to draw a page on a screen. Anyone can learn HTML and many people do. The important thing is that no matter what splendid multimedia web pages they might represent, HTML files are just telegrams.&#xA;When Ronald Reagan was a radio announcer, he used to call baseball games by reading the terse descriptions that trickled in over the telegraph wire and were printed out on a paper tape.</description>
-    </item>
-    <item>
-      <title>Juicy Code</title>
-      <link>//localhost:1313/post/2012/01/23/juicy-code/</link>
-      <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2012/01/23/juicy-code/</guid>
-      <description>Check out this JUICY! code:&#xA;def with_value_from_database(value) self.class.from_database(name, value, type) end def with_cast_value(value) self.class.with_cast_value(name, value, type) end def with_type(type) if changed_in_place? with_value_from_user(value).with_type(type) else self.class.new(name, value_before_type_cast, type, original_attribute) end end </description>
     </item>
   </channel>
 </rss>

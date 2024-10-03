@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backup on Classic</title>
+    <link>//localhost:1313/categories/backup/</link>
+    <description>Recent content in Backup on Classic</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/backup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tools that I came across recently</title>
+      <link>//localhost:1313/post/2024/08/10/tools-that-i-came-across-recently/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/08/10/tools-that-i-came-across-recently/</guid>
+      <description>##Tools that i came across recently&#xA;When I was randomly scrolling in Reddit, i came across a guy asking about how to backup sites and its content in Data hoarder sub reddit. There is came across this free software tool called httrack which take a backup of all the content in the webpage. I Tried scrapping Prasanna&amp;rsquo;s blog page and the mirror started and scraped the complete file.&#xA;The another tool which i found is rclone from the same r/data hoarders.</description>
+    </item>
+  </channel>
+</rss>

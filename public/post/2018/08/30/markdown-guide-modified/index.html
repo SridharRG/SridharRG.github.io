@@ -202,92 +202,6 @@ double-dollarsigns:</p>
 which you wish to be displayed literally, ex.: `foo`, *bar*, etc.</p>
 <h4 id="images-auto-center">Images auto center:</h4>
 <p><img src="http://emojis.slackmojis.com/emojis/images/1475875185/1223/party-dinosaur.gif?1475875185" alt="Party"></p>
-<h2 id="to-develop-a-remote-monitoring-tool">To Develop a Remote monitoring tool</h2>
-<p>Task assigned:</p>
-<ul>
-<li>Configure a machine as a web server. Using laptop as your client, do the following:</li>
-<li>Scan the network and list the devices that are SNMP enabled (Nmap may be used)</li>
-<li>Query the SNMP enabled devices and store the responses in the client side.</li>
-</ul>
-<h4 id="web-server">Web server</h4>
-<ul>
-<li>
-<p><strong>web server&rsquo;s</strong> primary function is to accept incoming requests from clients, such as web browsers, and respond with the requested resources, such as HTML pages, etc.</p>
-</li>
-<li>
-<p><strong>working model of web server</strong></p>
-<ul>
-<li>Request: a browser(client) send http request to web server by specifiying the resouce it wants</li>
-<li>Recieves req: receives the request and analyzes it to determine what resource is being requested.</li>
-<li>Process the req: auth the client, retrieving from the storage, exec the server side dynamic scrip(js)</li>
-<li>Response: web server sends the response back to the client with req resource or its error message it the code</li>
-<li>Client receives response: receives the response in browser</li>
-</ul>
-<p>eg. apache, nginx</p>
-</li>
-</ul>
-<h4 id="setting-up-the-web-server">Setting up the web server</h4>
-<p><em>Arch linux: EndeavourOS with Plasma6 as DE</em></p>
-<ul>
-<li>
-<p>Started and enabled nginx server with systemctl for daemon use
-`sudo syste<img src="../../../../Pictures/Screenshots/doc2.png" alt="doc2.png" title="doc2.png"> by default it will be in <code>/usr/share/nginx/html</code>
-<img src="/images/doc1.png" alt="example image" title="An exemplary image"></p>
-</li>
-<li>
-<p>check the nginx works or not by using</p>
-<ul>
-<li><code>ip a</code> - get the ip address of the system from wlan0</li>
-<li><code>192.168.0.126</code> paste this in url of brower</li>
-</ul>
-</li>
-</ul>
-<p><img src="../../../../Pictures/Screenshots/doc2.png" alt=""></p>
-<h4 id="to-scan-the-network-and-look-for-snmp-enabled-devices_by-using-nmap_">To scan the network and look for SNMP enabled devices(<em>by using nmap</em>)</h4>
-<ul>
-<li>
-<p>installing nmap using pacman - <code>sudo pacman -S nmap</code></p>
-</li>
-<li>
-<p>scanning the nmap <code>sudo nmap -sU -p 192.168.0.126/24</code>
-<img src="../../../../Pictures/Screenshots/doc3.png" alt="doc3.png">
-prob because the -p flag shoud mention the port - as nmap uses udp port 161</p>
-</li>
-<li>
-<p>This fixes the problem <code>sudo nmap -sU -p 161 192.168.0.0/24</code></p>
-</li>
-<li>
-<p><code>-sU</code> specifies a UDP scan</p>
-</li>
-<li>
-<p><code>-p 161</code> specifies the port number for SNMP
-<img src="../../../../Pictures/Screenshots/doc4.png" alt="doc4.png"></p>
-</li>
-<li>
-<p>usually the state will be closed for snmp service</p>
-</li>
-<li>
-<p>to enable snmp in other system</p>
-</li>
-<li>
-<p>install snmp in other local system and edit the conf file for snmpd</p>
-</li>
-</ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-path" data-lang="path"><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">sudo</span> <span style="color:#960050;background-color:#1e0010">nano</span> <span style="color:#960050;background-color:#1e0010">/etc/snmp/snmpd.conf</span>
-</span></span></code></pre></div><ul>
-<li>add these below lines in the snmpd.conf and restart the systemctl service in the another machine(I used another machine as aanisha&rsquo;s lap and done all these configuration)</li>
-</ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>agentAddress udp:161
-</span></span><span style="display:flex;"><span>rocommunity public
-</span></span></code></pre></div><p><img src="../../../../Pictures/Screenshots/doc6.png" alt="">
-after being changed and restarted the service, the port for the machine is open now as <em>highlighed above</em> and now it is snmp enabled device.</p>
-<h3 id="to-query-snmp-enabled-devices-and-store-responses-on-the-client-side">To Query SNMP-enabled devices and store responses on the client side</h3>
-<p>I&rsquo;m missing something while querying via snmpget - which is the OID.
-I also tried to fetch OID with smpwalk as mentioned in other community discussion forum of snmp, but everything came out as unreachabe or timeout</p>
-<ul>
-<li>also trying other tools like snmpwalk and snmptranslate</li>
-<li>I will figure it out soon, this part is taking some time to finish and will soon troubleshoot this and wind it up soon.</li>
-</ul>
 <div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
@@ -329,7 +243,7 @@ I also tried to fetch OID with smpwalk as mentioned in other community discussio
 
       
       <hr/>
-      Open-Source | <a href="https://github.com/sridharrg/sridharrg.github.io">Github</a> | <a href="https://keybase.io/goodroot">linkedin</a>
+      Free Culture | <a href="https://gitlab.com/sridharrg/">Gitlab</a> | <a href="https://github.com/sridharrg/">Github</a> | <a href="https://www.linkedin.com/in/sridhar-r-a46735270/">linkedin</a>
       
     </footer>
   </body>

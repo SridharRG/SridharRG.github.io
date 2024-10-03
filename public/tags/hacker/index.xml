@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacker on Classic</title>
+    <link>//localhost:1313/tags/hacker/</link>
+    <description>Recent content in Hacker on Classic</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/hacker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Removing Bloatware</title>
+      <link>//localhost:1313/post/2024/08/28/removing-bloatware/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/08/28/removing-bloatware/</guid>
+      <description>What made me to do this First of all, I dont need unnecessary propritory apps which I&amp;rsquo;m not using a while. The other main thing is I want to get rid of this Google, and badly want to remove all the google service including google play service and gfs. The only thing I&amp;rsquo;m concerned is, if i remove all the google services, i cant use upi scanner apps, banking apps for Indian bank and such things which makes me to hold to remove these google service</description>
+    </item>
+    <item>
+      <title>Hacker - How to</title>
+      <link>//localhost:1313/post/2024/08/25/hacker-how-to/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/08/25/hacker-how-to/</guid>
+      <description>How precious is our data?? Our data is different from materialistic resource because data is unique and priceless.&#xA;Unlike physical resource, which has fixed value and sums up to a linear growth, our data become invaluable when it combines with one another &amp;hellip;not like a linear approcach with materialistic resource.&#xA;The influence of Free Software foundation europe(FSFE) &amp;amp; Chaos Computing club(CCC) in EU plays a significant role in data protection, digital rights and privacy.</description>
+    </item>
+  </channel>
+</rss>

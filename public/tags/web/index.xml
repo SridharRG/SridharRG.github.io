@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Classic</title>
+    <link>//localhost:1313/tags/web/</link>
+    <description>Recent content in Web on Classic</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why we need to have a blog</title>
+      <link>//localhost:1313/post/2024/10/03/why-we-need-to-have-a-blog/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/10/03/why-we-need-to-have-a-blog/</guid>
+      <description>Why write? Writing as crystallized thought, a way of expressing the labyrinth of interconnected, messy, and many time incoherent ideas in my mind. It is a form of knowledge distillation.&#xA;I feel molding thoughts into new forms through language and terminology can give it a new perspective.&#xA;I just want you to read the below post as this kuttiee suggests:&#xA;https://www.henrikkarlsson.xyz/p/search-query Writing for a general public, you need to be broad and a bit bland.</description>
+    </item>
+  </channel>
+</rss>

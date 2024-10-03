@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Foss on Classic</title>
+    <title>FOSS on Classic</title>
     <link>//localhost:1313/tags/foss/</link>
-    <description>Recent content in Foss on Classic</description>
+    <description>Recent content in FOSS on Classic</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/foss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Astro Portfolio template</title>
+      <link>//localhost:1313/post/2024/09/16/astro-portfolio-template/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/09/16/astro-portfolio-template/</guid>
+      <description> https://github.com/surjithctly/astroship https://github.com/thomasKn/astro-shopify https://github.com/JustGoodUI/dante-astro-theme https://github.com/sooros5132/notion-blog-kit https://github.com/stefanogali/panini-cake https://github.com/judygab/nextjs-portfolio https://github.com/adrian-ub/adrianub.dev https://github.com/TimWitzdam/astro-minimal-portfolio-template https://github.com/ascorbic/unpic-img https://github.com/zhangyu1818/blog https://github.com/elianiva/elianiva.my.id https://github.com/manuelernestog/astrofy https://github.com/satnaing/astro-paper https://github.com/trevortylerlee/astro-micro https://github.com/compiiile/compiiile https://github.com/markhorn-dev/astro-nano https://github.com/n8n-io/n8n https://github.com/mhyfritz/astro-landing-page </description>
+    </item>
+    <item>
+      <title>Wiki that I&#39;m contributing to</title>
+      <link>//localhost:1313/post/2024/09/16/wiki-that-im-contributing-to/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/09/16/wiki-that-im-contributing-to/</guid>
+      <description>Started with my first wiki contribution For a long time, I was planning to contribute wikipedia as a part of my archival process and long term helpful journey that people would benefit outta it, and then our collective hosted a mediawiki called FSHM wiki which inturn paved my path to contribute it. But I dont have a list of concrete plan to contribute considering my landscape.&#xA;By then, I get to see wiki page of Fosscell NITC, which they have a list of Campus guide which seems informational and helpful to anyone who wanna join there as a fresher.</description>
+    </item>
     <item>
       <title>Why I love Linux</title>
       <link>//localhost:1313/post/2024/07/03/why-i-love-linux/</link>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on Classic</title>
+    <link>//localhost:1313/tags/open-source/</link>
+    <description>Recent content in Open Source on Classic</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Things to-do for SOTC wiki</title>
+      <link>//localhost:1313/post/2024/09/02/things-to-do-for-sotc-wiki/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/09/02/things-to-do-for-sotc-wiki/</guid>
+      <description>Things to-do Freshers guide to PU locations internship opportunities clubs events yearly health center hostels cells for women safety and harrasments deans evnets archieve library resource gym busses student community festivals nearest phc, hospital Department archieve near campus campus safety farewell, freshers culture pathu thirundhu da</description>
+    </item>
+    <item>
+      <title>Useful sites to bypass paywal</title>
+      <link>//localhost:1313/post/2024/09/02/useful-sites-to-bypass-paywal/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/09/02/useful-sites-to-bypass-paywal/</guid>
+      <description>I wrote this list using some somewhat arbitrary constraints, to narrow it down from the maybe 150 blogs I have in my bookmark:&#xA;there are “a lot” of posts, for some arbitrary definition of “a lot” (there are so many blogs I love where the person has only written like 5 posts!)&#xA;the person has posted in the last 2 years (there are so many blogs I love that have mostly stopped posting!</description>
+    </item>
+    <item>
+      <title>Smart India Hackathon</title>
+      <link>//localhost:1313/post/2024/08/29/smart-india-hackathon/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/08/29/smart-india-hackathon/</guid>
+      <description>How to present for Hackathon Prob statement ID Prob statement Title Theme Category - Software Team id Team name registered in Portal Idea title Concise overview of the idea Explain the solution elaborately. Including details like how it works, its key features, and the overall approach Highlight what makes our solution innovative and different from existing ones. Technical approach Technology stack (prog lang, framework and hardware) system design - outline arch and design Methodology, technique and process for implementation Flow Charts Images provide evidence of working prototype feasibility and viablility analysis of feasibility of idea in terms of technical and practical aspects Potential challenges and risks that could impact the project Suggest ways to overcome these challenges - Strategies target audience and beneficial people Discuss how our solution will affect the target audience.</description>
+    </item>
+  </channel>
+</rss>
