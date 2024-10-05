@@ -3,9 +3,9 @@ title: Who is actually getting benefited from FOSS
 author: mandakozhabiya saarapambu
 date: '2024-08-10'
 categories:
-  - FOSS
+  - foss
 tags:
-  - Open source, free culture
+  - free culture
 ---
 
 I was questioning myself about Free Software and how it works, now I came to a wider and broader thoughts of conclution and writing my perspective here after surfing into the web
@@ -60,4 +60,4 @@ Also consider this as further [reading](https://drewdevault.com/2024/07/16/2024-
 Please happily share if you got any critique of some thoughts regarding this.
 
 ------
-anyways thats pretty much it byebye <3
+anyways thats pretty much a huge one. byebye <3

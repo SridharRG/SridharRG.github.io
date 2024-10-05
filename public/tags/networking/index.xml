@@ -13,7 +13,7 @@
       <link>//localhost:1313/post/2024/07/03/setting-up-a-custom-dns-server/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/post/2024/07/03/setting-up-a-custom-dns-server/</guid>
-      <description>links to proceed with:&#xA;https://www.quora.com/How-do-I-set-up-my-own-DNS-server https://opensource.com/article/17/4/build-your-own-name-server https://meshnet.nordvpn.com/how-to/security/how-to-set-up-your-own-dns-server https://www.howtogeek.com/devops/how-to-run-your-own-dns-server-on-your-local-network/ https://www.pcmag.com/how-to/how-and-why-to-change-your-dns-server https://www.ninjaone.com/blog/how-to-configure-a-dns-server/ https://meshnet.nordvpn.com/how-to/security/protect-network-with-adguard-home Also read about dnsmasq - a free software tool&#xA;https://stevessmarthomeguide.com/home-network-dns-dnsmasq/ https://wiki.archlinux.org/title/Dnsmasq </description>
+      <description>Domain name It is an identification string that defines a realm of administrative autonomy, authority, or control within the Internet.&#xA;DNS currently has ~300 million DNS registrations. Both query and reply messages follow the same message format. Both always include Name, Type, Class tuples — Class is usually IN. Names cannot be wildcarded but type and class can&#xA;How do we resolve domain names to IP addresses? Resolves starting from the root and makes it way down the network hierarchy</description>
     </item>
     <item>
       <title>Why I need to maintain a server</title>

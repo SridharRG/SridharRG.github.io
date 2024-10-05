@@ -202,7 +202,37 @@ double-dollarsigns:</p>
 which you wish to be displayed literally, ex.: `foo`, *bar*, etc.</p>
 <h4 id="images-auto-center">Images auto center:</h4>
 <p><img src="http://emojis.slackmojis.com/emojis/images/1475875185/1223/party-dinosaur.gif?1475875185" alt="Party"></p>
-<div class="footnotes" role="doc-endnotes">
+<h3 id="header-colour">Header Colour</h3>
+<p>Adjust header colour within <code>static/css/style.css</code></p>
+<pre tabindex="0"><code>header {
+    background: #613DC1;
+}
+</code></pre><p>&hellip; <code>background:</code> to any colour value you&rsquo;d like!</p>
+<p>For header font:</p>
+<pre tabindex="0"><code>header a {
+    color: #fff;
+}
+</code></pre><p>Change <code>color:</code> to a nice matching colour.</p>
+<h3 id="darkmode">Darkmode</h3>
+<p>Match or over-ride system-wide dark/light settings</p>
+<ol>
+<li>
+<p>Open <code>static/css/style.css</code></p>
+</li>
+<li>
+<p>Edit the following attributes to match light/dark</p>
+</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#75715e">/* darkmode */</span>
+</span></span><span style="display:flex;"><span>@<span style="color:#66d9ef">media</span> <span style="color:#f92672">(</span><span style="color:#f92672">prefers-color-scheme</span><span style="color:#f92672">:</span> <span style="color:#f92672">dark</span><span style="color:#f92672">)</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">...</span>
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">/* lightmode */</span>
+</span></span><span style="display:flex;"><span>@<span style="color:#66d9ef">media</span> <span style="color:#f92672">(</span><span style="color:#f92672">prefers-color-scheme</span><span style="color:#f92672">:</span> <span style="color:#f92672">light</span><span style="color:#f92672">)</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">...</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
 <li id="fn:1">

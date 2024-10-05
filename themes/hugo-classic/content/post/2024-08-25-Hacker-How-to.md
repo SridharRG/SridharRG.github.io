@@ -3,7 +3,7 @@ title: Hacker - How to
 author: Bixxzy
 date: '2024-08-25'
 categories:
-  - FOSS
+  - foss
 tags:
   - Hacker
 ---

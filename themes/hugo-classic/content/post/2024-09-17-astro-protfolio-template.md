@@ -3,9 +3,9 @@ title: Astro Portfolio template
 author: Bixxzy
 date: '2024-09-16'
 categories:
-  - wiki
+  - astro
 tags:
-  - FOSS
+  - ssg
 ---
 
 - https://github.com/surjithctly/astroship

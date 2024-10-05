@@ -5,7 +5,7 @@ date: '2024-07-19'
 categories:
   - foss
 tags:
-  - sotc, fshm
+  - sotc
 ---
 
 As noordine asked me to write a note for myself that what i observed as a secretary, here it goes

@@ -69,7 +69,7 @@
       <link>//localhost:1313/post/2024/08/10/tools-that-i-came-across-recently/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/post/2024/08/10/tools-that-i-came-across-recently/</guid>
-      <description>##Tools that i came across recently&#xA;When I was randomly scrolling in Reddit, i came across a guy asking about how to backup sites and its content in Data hoarder sub reddit. There is came across this free software tool called httrack which take a backup of all the content in the webpage. I Tried scrapping Prasanna&amp;rsquo;s blog page and the mirror started and scraped the complete file.&#xA;The another tool which i found is rclone from the same r/data hoarders.</description>
+      <description>httrack When I was randomly scrolling in Reddit, i came across a guy asking about how to backup sites and its content in Data hoarder sub reddit. There is came across this free software tool called httrack which take a backup of all the content in the webpage. I Tried scrapping Prasanna&amp;rsquo;s blog page and the mirror started and scraped the complete file.&#xA;rclone The another tool which i found is rclone from the same r/data hoarders.</description>
     </item>
     <item>
       <title>Who is actually getting benefited from FOSS</title>
@@ -100,13 +100,6 @@
       <description>Why I need to monitor the network modern understanding of network monitoring needs additional approaches.&#xA;a network traffic analysis Network monitoring collects data from servers, routers, firewalls, switches, etc. The goal is to detect intrusions into networks, identify vulnerabilities, and prevent attacks. Network monitoring can be performed manually or automatically.&#xA;some open source tools are: Nagios Zabbix Cacti Zenoss Munin Netflow Wireshark The best features of Network Monitoring Software are:</description>
     </item>
     <item>
-      <title>My Train Journey</title>
-      <link>//localhost:1313/post/2024/07/04/my-train-journey/</link>
-      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2024/07/04/my-train-journey/</guid>
-      <description>I love the journey as its not all about the desitnation and its also about the travel in our jouney.&#xA;When we board our train, We were having a nice chitchat about some random things that we usually talks about.&#xA;The last time we were returning from Kozhikode to Pondy, we were witnessing the aweful large mountains throughtout the way near palakad and all were enjoying the moment in our train journey.</description>
-    </item>
-    <item>
       <title>What should I consume in online</title>
       <link>//localhost:1313/post/2024/07/04/what-should-i-consume-in-online/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
@@ -125,7 +118,7 @@
       <link>//localhost:1313/post/2024/07/03/setting-up-a-custom-dns-server/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/post/2024/07/03/setting-up-a-custom-dns-server/</guid>
-      <description>links to proceed with:&#xA;https://www.quora.com/How-do-I-set-up-my-own-DNS-server https://opensource.com/article/17/4/build-your-own-name-server https://meshnet.nordvpn.com/how-to/security/how-to-set-up-your-own-dns-server https://www.howtogeek.com/devops/how-to-run-your-own-dns-server-on-your-local-network/ https://www.pcmag.com/how-to/how-and-why-to-change-your-dns-server https://www.ninjaone.com/blog/how-to-configure-a-dns-server/ https://meshnet.nordvpn.com/how-to/security/protect-network-with-adguard-home Also read about dnsmasq - a free software tool&#xA;https://stevessmarthomeguide.com/home-network-dns-dnsmasq/ https://wiki.archlinux.org/title/Dnsmasq </description>
+      <description>Domain name It is an identification string that defines a realm of administrative autonomy, authority, or control within the Internet.&#xA;DNS currently has ~300 million DNS registrations. Both query and reply messages follow the same message format. Both always include Name, Type, Class tuples — Class is usually IN. Names cannot be wildcarded but type and class can&#xA;How do we resolve domain names to IP addresses? Resolves starting from the root and makes it way down the network hierarchy</description>
     </item>
     <item>
       <title>Why I love Linux</title>

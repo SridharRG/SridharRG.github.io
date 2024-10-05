@@ -6,6 +6,7 @@ categories:
   - linux
 tags:
   - foss
+  - kde
 ---
 
 ### Why I started using it??

@@ -53,7 +53,7 @@
 
 <div class="article-meta">
 <h1><span class="title">Setting up a custom dns server</span></h1>
-<h2 class="author">NIT vandhu selavu pani padikira saarapambu</h2>
+<h2 class="author">Heimdal</h2>
 <h2 class="date">2024/07/03</h2>
 <p class="terms">
   
@@ -72,7 +72,70 @@
 
 <div class="content-wrapper">
   <main>
-    <p>links to proceed with:</p>
+    <h2 id="domain-name">Domain name</h2>
+<p>It is an identification string that defines a realm of administrative autonomy, authority, or control within the Internet.</p>
+<p>DNS currently has ~300 million DNS registrations. Both query and reply messages follow the same message format. Both always include Name, Type, Class tuples — Class is usually IN. Names cannot be wildcarded but type and class can</p>
+<p>How do we resolve domain names to IP addresses? Resolves starting from the root and makes it way down the network hierarchy</p>
+<ol>
+<li>Root (13 of these worldwide)</li>
+<li>Top-level Domains (e.g. .com, .net, .org, etc.)</li>
+<li>Second-level Domains (e.g. UBC)</li>
+<li>Subdomains (e.g. www)</li>
+<li>Individual machines</li>
+<li>Local DNS Servers (not actually a part of the hierarchy, just caches data)</li>
+</ol>
+<p>Authoritative DNS server is the server with the actual jurisdiction of the domain name you are looking for. The authoritative server of cisco.must.ac.ug is cisco server under must(Malabar University). I use this for learning networks with cisco materials <a href="https://cisco.must.ac.ug/cisco/">They have this fking nice directory which will give us a clear idea about networks</a></p>
+<h3 id="types-of-queries">Types of queries</h3>
+<ol>
+<li>Recursive Query — if the name server doesn’t know the answer, it asks a downstream server (recursively) for the answer on your behalf.</li>
+<li>Iterative Query — if the name server doesn’t know the answer, it tells you where to look at next, you do all the querying</li>
+</ol>
+<h3 id="dns-servers-store-resource-records-rrs-types">DNS servers store resource records (RRs) Types:</h3>
+<ol>
+<li>
+<p>A (address records)</p>
+<ul>
+<li>name: hostname</li>
+<li>value: IPv4 address</li>
+</ul>
+</li>
+<li>
+<p>NS (name server)</p>
+<ul>
+<li>name: domain</li>
+<li>value: name of DNS server for domain</li>
+</ul>
+</li>
+<li>
+<p>MX (mail exchanger)</p>
+<ul>
+<li>name: domain of email address</li>
+<li>value: name of mail server</li>
+</ul>
+</li>
+<li>
+<p>AAAA (addressx4 record)</p>
+<ul>
+<li>name: hostname</li>
+<li>value: IPv6 address</li>
+</ul>
+</li>
+<li>
+<p>CNAME (canonical name)</p>
+<ul>
+<li>name: alias</li>
+<li>value: canonical name (e.g. foo.com)</li>
+</ul>
+</li>
+<li>
+<p>TXT (just plain text)</p>
+<ul>
+<li>name: domain</li>
+<li>value: plain text in the format of attribute=value. The TXT record was originally intended as a place for human-readable notes but now often used for domain ownership verification.</li>
+</ul>
+</li>
+</ol>
+<p>links to proceed with:</p>
 <ul>
 <li><a href="https://www.quora.com/How-do-I-set-up-my-own-DNS-server">https://www.quora.com/How-do-I-set-up-my-own-DNS-server</a></li>
 <li><a href="https://opensource.com/article/17/4/build-your-own-name-server">https://opensource.com/article/17/4/build-your-own-name-server</a></li>
@@ -86,6 +149,19 @@
 <ul>
 <li><a href="https://stevessmarthomeguide.com/home-network-dns-dnsmasq/">https://stevessmarthomeguide.com/home-network-dns-dnsmasq/</a></li>
 <li><a href="https://wiki.archlinux.org/title/Dnsmasq">https://wiki.archlinux.org/title/Dnsmasq</a></li>
+</ul>
+<h4 id="privacy-guide-for-dns">privacy guide for dns</h4>
+<ul>
+<li><a href="https://www.privacyguides.org/en/advanced/dns-overview/">https://www.privacyguides.org/en/advanced/dns-overview/</a></li>
+</ul>
+<h4 id="dns-lookup-tool">dns lookup tool</h4>
+<ul>
+<li><a href="https://dns-lookup.jvns.ca/">https://dns-lookup.jvns.ca/</a></li>
+<li><a href="https://dnslink.dev/">documentation</a></li>
+</ul>
+<h3 id="note">note</h3>
+<ul>
+<li>I brought my custom domain for sotc in namecheap with github students developers pack.</li>
 </ul>
 
     <a href="/"> >> Home</a>

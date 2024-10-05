@@ -77,7 +77,7 @@
     <loc>//localhost:1313/post/2024/08/10/who-is-actually-getting-benefited-from-foss/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/sotc-fshm/</loc>
+    <loc>//localhost:1313/tags/sotc/</loc>
     <lastmod>2024-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/2024/07/19/things-i-learnt-from-the-collective/</loc>
@@ -107,9 +107,6 @@
     <loc>//localhost:1313/tags/left/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/07/04/my-train-journey/</loc>
-    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/categories/political/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -123,6 +120,9 @@
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/dns/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/kde/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/linux/</loc>
