@@ -23,10 +23,16 @@
     <loc>//localhost:1313/post/2024/10/03/why-we-need-to-have-a-blog/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/categories/astro/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/post/2024/09/16/astro-portfolio-template/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/foss/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/ssg/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/wiki/</loc>
@@ -68,7 +74,10 @@
     <loc>//localhost:1313/categories/backup/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/open-source-free-culture/</loc>
+    <loc>//localhost:1313/tags/free-culture/</loc>
+    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/tools/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/2024/08/10/tools-that-i-came-across-recently/</loc>

@@ -41,4 +41,4 @@ url = "/index.xml"
 [params]
 custom_css = ["css/theme-override.css"]
 description = "A simple, minimal blog for those who love text."
-footer = "Free Culture | [Gitlab](https://gitlab.com/sridharrg/) | [Github](https://github.com/sridharrg/) | [linkedin](https://www.linkedin.com/in/sridhar-r-a46735270/)"
+footer = "~ All Wrongs Reserved ~"
