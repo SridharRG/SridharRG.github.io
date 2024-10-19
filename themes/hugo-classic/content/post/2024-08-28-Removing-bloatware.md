@@ -1,5 +1,5 @@
 ---
-title: Removing Bloatware
+title: Privacy where??
 author: oneplus nord ce3
 date: '2024-08-28'
 categories:

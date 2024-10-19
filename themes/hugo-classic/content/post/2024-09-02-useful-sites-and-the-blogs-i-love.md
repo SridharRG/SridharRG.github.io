@@ -1,5 +1,5 @@
 ---
-title: Useful sites to bypass paywal
+title: Web directory
 author: Bixxzy
 date: '2024-09-02'
 categories:
@@ -17,6 +17,9 @@ I wrote this list using some somewhat arbitrary constraints, to narrow it down f
 
 3. (obviously) that I like reading the blog
 
+## Web directory
+## Minimal
+## blogs
 ## paywall skip
 
 - https://www.paywallskip.com/

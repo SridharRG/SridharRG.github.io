@@ -85,3 +85,4 @@ Also read about *dnsmasq* -  a free software tool
 
 ### note
 - I brought my custom domain for sotc in namecheap with github students developers pack.
+- All these notes were taken for the preparation for Networking session at FSHM

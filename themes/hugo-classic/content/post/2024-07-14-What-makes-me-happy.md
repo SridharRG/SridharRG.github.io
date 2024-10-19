@@ -10,6 +10,6 @@ tags:
 
 ### What make me happy??
 
-Sridhar: I want my life to be full of great moments
+Me: I want my life to be full of great moments
 
 Also me: Great moments exists inside the ordinary moments. _continues to enjoy the moment_

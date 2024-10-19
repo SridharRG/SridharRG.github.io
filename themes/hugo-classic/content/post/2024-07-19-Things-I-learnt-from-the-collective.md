@@ -1,6 +1,6 @@
 ---
 title: Things I learnt from the collective
-author: Foss enthu
+author: Hacktivist
 date: '2024-07-19'
 categories:
   - foss

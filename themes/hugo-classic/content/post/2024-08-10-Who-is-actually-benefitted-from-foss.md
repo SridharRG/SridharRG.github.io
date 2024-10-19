@@ -1,6 +1,6 @@
 ---
 title: Who is actually getting benefited from FOSS
-author: mandakozhabiya saarapambu
+author: Again a void thinker
 date: '2024-08-10'
 categories:
   - foss
@@ -10,7 +10,7 @@ tags:
 
 I was questioning myself about Free Software and how it works, now I came to a wider and broader thoughts of conclution and writing my perspective here after surfing into the web
 
-> Question: Linux, being free software, raises the question of who really benefits from it. It seems that the so-called startups or large corporations are the ones truly profiting from this free and open-source software. Somehow its gonna get used by some corporate and the code gets closed which doesn't benefit the society and also doesn't pay back the creator right?
+> Question: Linux, being free software, raises the question of who really benefits from it. It seems that the so-called startups or large corporations are the ones truly profiting from this FOSS by building their stacks with help of free software and closing the codebase. Somehow its gonna get used by some corporate and the code gets closed which doesn't benefit the society and also doesn't pay back the creator right?
 
 It's true that Big corporations using FOSS and not giving back is a big point of contention and discussion. It's a point that was raised during the whole [Log4j](https://theconversation.com/what-is-log4j-a-cybersecurity-expert-explains-the-latest-internet-vulnerability-how-bad-it-is-and-whats-at-stake-173896) situation (IIRC the creators had to basically sacrifice their Christmas for no monetary compensation), and again during the XZ backdoor situation.
 
@@ -22,7 +22,7 @@ Many businesses use FOSS without donating or contributing time or knowledge.
 
 referencing here the [zloirock at core-js](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md) as his story became very popular in February of 2023. He talked about how 52% of the top 1,000 websites used his code, yet he was only making about $1,000 a month to maintain it.
 
-> Question: The question which hit me if any core product built as FOSS powers other software, the creator often doesn't receive any significant monetary benefit other than donations.
+> Question: The question which hits if any core product built as FOSS powers other software, the creator often doesn't receive any significant monetary benefit other than donations.
 
 While many contributors begin as hobbyists, some have transitioned to full-time roles within the open-source community or have found ways to monetize their skills through consulting, support services, or creating complementary products. Additionally, large companies often hire developers who maintain open-source projects, it gives a big boost in the resume that maintaining a package or software and  allowing them to focus on what they love while also getting paid, either way improving the quality of the product, so it's a win-win.  
 
@@ -53,7 +53,10 @@ While the critical point some companies do take open-source code and create prop
 
 By advocating for free and open-source principles and supporting projects that align with these values, we can have an environment where both creators and users see tangible benefits.  
 
-Such contradictions are to expected when trying to make something free in an unfree world. We are choosing the liberation side.
+Such contradictions are to expected when trying to make something free in an unfree world. We are choosing the liberation side. Also quoting down Prasanna's message here
+
+>By default we are anyway going to be selling our labour power to  private players for our sustenance, but our entire life should not be sucked in there. As Marx put forth, மனிதனாக பிறந்தவன் சமூகத்திற்கு பயனின்றி அழியக் கூடாது. வாழ்க்கை மகத்தானது அது மக்களுக்காக வாழும் பொழுது.
+
 
 Also consider this as further [reading](https://drewdevault.com/2024/07/16/2024-07-16-So-you-want-to-compete-with-FOSS.html)
 
@@ -61,3 +64,7 @@ Please happily share if you got any critique of some thoughts regarding this.
 
 ------
 anyways thats pretty much a huge one. byebye <3
+
+#### Changelog:
+
+- https://www.entrepreneur.com/en-in/news-and-trends/zerodha-launches-usd-1-mn-annual-fund-to-support-open/481437

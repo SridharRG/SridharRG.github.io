@@ -15,6 +15,8 @@ Our data is different from materialistic resource because data is unique and pri
 Unlike physical resource, which has fixed value and sums up to a linear growth, our data become invaluable when it combines with one another ...not like a linear approcach with materialistic resource.
 
 - The influence of Free Software foundation europe(FSFE)  & Chaos Computing club(CCC) in EU plays a significant role in data protection, digital rights and privacy. These groups have be most influencial organizations which been vocal to such issues that pushes the EU to implement such laws.
+
+Recently go to see this awful speech in [DEFCON](https://www.youtube.com/watch?v=4EmstuO0Em8) 
  
 
 ### How we can change the society

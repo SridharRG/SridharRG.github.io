@@ -1,6 +1,6 @@
 ---
 title: What should I consume in online
-author: The Productive Baymax
+author: Baymax
 date: '2024-07-04'
 categories:
   - Productivity
@@ -17,5 +17,3 @@ Giving us a break to ourselves doesn't mean that we have to stipulate for the sc
 I personally feel that this video and image will reduce our reading. we are constricted ourselves that we get everything here in the social media and often getting back to social media with our own muscle memory. I personally like the practice of surfing web and seek for some good blogs which will be in their perspective and will convey what they actually feel which i personally like.
 
 I felt many times that when I take my phone for something and I will unknowingly ended up seeing some reels instead of the actual work i came for my phone. This looks silly one, but for me it is the greatest distraction of all time which i need to restrict at any cost.
-
-![example image](/images/pente2.webp "An exemplary image")
