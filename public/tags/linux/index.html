@@ -10,7 +10,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="A simple, minimal blog for those who love text.">
-    <title> | Classic</title>
+    <title>Linux | Classic</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
     <link rel="stylesheet" href="//localhost:1313/css/theme-override.css">
@@ -30,7 +30,7 @@
       </li>
       
       
-      <li class="pull-left ">
+      <li class="pull-left current">
         <a href="/tags/">~/tags</a>
       </li>
       
@@ -51,42 +51,24 @@
   <body>
     <br/>
 
-<div class="article-meta">
-<h1><span class="title"></span></h1>
-
-
-<p class="terms">
-  
-  
-  
-  
-  
-</p>
-</div>
-
-
 
 <div class="content-wrapper">
-  <main>
-    <h2 id="ssh-hardening">ssh hardening</h2>
-<ul>
-<li>enabled keybased auth for server login (ssh-copy-id ssh <hostname>@<serverip>)</li>
-<li>disabled root login in sshd-config (PermitRootLogin NO)</li>
-<li>decreased MaxauthTries to 3 (still yet to configure Fail2Ban)</li>
-<li>changed back port 22 as defaultl</li>
-<li>Changed client alive interval to 5min(300) to stay alive in vps</li>
-</ul>
-<h2 id="firewall-setup">Firewall setup</h2>
-<ul>
-<li>installed firewall (ufw and iptables)</li>
-<li>allow OpenSSH (sudo ufw allow OpenSSH)</li>
-<li>To check the wheather the rule is added or not (sudo ufw show added)</li>
-<li>sudo ufw enable to make change effect</li>
-<li>To check for status (ufw status verbose)</li>
-</ul>
 
-    <a href="/"> >> Home</a>
-  </main>
+  <h1>Linux</h1>
+  
+
+  
+
+  <ul>
+     
+     
+     
+     <li>
+       <span class="date">2024/10/23</span>
+       <a href="/post/2024/10/23/vps-log/">vps log</a>
+     </li>
+     
+   </ul>
 </div>
     <footer>
       

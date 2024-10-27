@@ -53,7 +53,7 @@ While the critical point some companies do take open-source code and create prop
 
 By advocating for free and open-source principles and supporting projects that align with these values, we can have an environment where both creators and users see tangible benefits.  
 
-Such contradictions are to expected when trying to make something free in an unfree world. We are choosing the liberation side. Also quoting down Prasanna's message here
+Such contradictions are to expected when trying to make something free in an unfree world. We are choosing the liberation side. Also quoting down Prasanna's   message here
 
 >By default we are anyway going to be selling our labour power to  private players for our sustenance, but our entire life should not be sucked in there. As Marx put forth, மனிதனாக பிறந்தவன் சமூகத்திற்கு பயனின்றி அழியக் கூடாது. வாழ்க்கை மகத்தானது அது மக்களுக்காக வாழும் பொழுது.
 

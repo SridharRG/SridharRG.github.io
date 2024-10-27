@@ -6,8 +6,15 @@
     <description>Recent content in Home on Classic</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vps log</title>
+      <link>//localhost:1313/post/2024/10/23/vps-log/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/10/23/vps-log/</guid>
+      <description>ssh hardening enabled keybased auth for server login (ssh-copy-id ssh @) disabled root login in sshd-config (PermitRootLogin NO) decreased MaxauthTries to 3 (still yet to configure Fail2Ban) changed back port 22 as defaultl Changed client alive interval to 5min(300) to stay alive in vps Firewall setup installed firewall (ufw and iptables) allow OpenSSH (sudo ufw allow OpenSSH) To check the wheather the rule is added or not (sudo ufw show added) sudo ufw enable to make change effect To check for status (ufw status verbose) </description>
+    </item>
     <item>
       <title>Why we need to have a blog</title>
       <link>//localhost:1313/post/2024/10/03/why-we-need-to-have-a-blog/</link>
