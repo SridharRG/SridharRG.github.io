@@ -57,3 +57,19 @@ Google has since deprecated Safety Net for a more aggressive root detection syst
 ### Alternatives
 
 I use firefox for ideological reasons, and also for its features. Chrome/brave and other chromium based browser are all under the same Google umbrella. Firefox is the only real non-google alternative.
+
+Mail clinet - K-9 mail, Fair mail
+
+## Recovery
+
+- TWRP
+- Orange Fox
+
+## Play Integrity Fix
+
+https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/
+
+## MicroG 
+
+- [MicroG Project](https://microg.org/)
+
