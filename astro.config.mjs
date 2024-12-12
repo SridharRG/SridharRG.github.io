@@ -1,10 +1,9 @@
-	import { defineConfig } from 'astro/config';
+import { defineConfig } from 'astro/config';
+import staticSite from '@astrojs/static-site';
 
-import tailwind from "@astrojs/tailwind";
-
-// https://astro.build/config
 export default defineConfig({
-  integrations: [tailwind()],
-    site: 'https://sridharrg.github.io',
-  base: 'sridharrg.github.io',
+  base: '/sridharrg.github.io/', 
+  output: 'static',
+  adapter: staticSite(),
 });
+
