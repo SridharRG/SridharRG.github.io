@@ -1,9 +1,0 @@
-# Node stuff
-node_modules
-package-lock.json 
- 
-# astro stuff
-.astro
-
-#code
-.vscode

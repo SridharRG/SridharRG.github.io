@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+
+{% block page %}projects{% endblock page %}
+{% block lang %}
+  {% if section.extra.lang %}
+    {{ section.extra.lang }}
+  {% else %}
+    {{ section.lang }}
+  {% endif %}
+{% endblock lang %}
+{% block title %}{{ section.title }}{% endblock title %}
+{% block desc %}
+  <meta name="description" content="{{ section.description }}">
+{% endblock desc %}
+{% block content %}
+<!-- {% include "header.html" %} -->
+<style>
+    .quote-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+        padding: 20px;
+    }
+
+    .quote-box {
+        background-color: var(--background);
+        border: 1px solid var(--text);
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        font-size: 1.1em;
+        line-height: 1.6;
+        text-align: center;
+        transition: background-color 0.3s ease, color 0.3s ease, padding 0.3s ease, border-radius 0.3s ease, box-shadow 0.3s ease;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+    }
+
+    .quote-box em {
+        display: block;
+        margin-top: 10px;
+        color: var(--link);
+        transition: opacity 0.3s ease, height 0.3s ease, margin-top 0.3s ease;
+    }
+
+    .quote-text {
+        transition: color 0.3s ease, background-color 0.3s ease, padding 0.3s ease, border-radius 0.3s ease;
+    }
+
+    .quote-text:hover {
+        color: var(--bg);
+        background-color: var(--link);
+        border-radius: 10px;
+        padding: 10%;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 1024px) {
+        .quote-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+
+    @media (max-width: 768px) {
+        .quote-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+</style>
+
+    {% set data = load_data(path="content/quotes/data.json", format="json") %}
+	<h1>Quotes</h1>
+<div class="quote-grid">
+    {% for quote in data %}
+    <div class="quote-box theme-transition">
+        <span class="quote-text">{{ quote.text }}</span>
+        <em>— {{ quote.source }}</em>
+    </div>
+    {% endfor %}
+</div>
+{% endblock content %}
+

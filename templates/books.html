@@ -1,0 +1,95 @@
+{% extends "base.html" %}
+
+{% block page %}projects{% endblock page %}
+{% block lang %}
+  {% if section.extra.lang %}
+    {{ section.extra.lang }}
+  {% else %}
+    {{ section.lang }}
+  {% endif %}
+{% endblock lang %}
+{% block title %}{{ section.title }}{% endblock title %}
+{% block desc %}
+  <meta name="description" content="{{ section.description }}">
+{% endblock desc %}
+{% block content %}
+<!-- {% include "header.html" %} -->
+<style>
+  .image-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px; /* Adjust the gap between images as needed */
+  }
+
+  img {
+    width: 80px;
+    height: auto;
+    max-width: 100%;
+    border-radius: 5%;
+ 
+  }
+
+  .card {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+  }
+  .book-name{
+    font-weight: bold;
+    margin-bottom: 0;
+    }
+  .book-author{
+    font-style: italic;
+    color: #8c8c8c;
+    margin-top: 5px;
+  }
+  .desc{
+    font-size: 18px;
+    line-height: 1.75; 
+    margin: 0 0 18px;   
+  }
+  @media (max-width: 767px) {
+    .image-container{
+      display: block;
+      margin: 15px;
+    }
+    .card{
+      margin-bottom: 15px;
+    }
+    .books-desc{
+      margin: 15px;
+    }
+    h1{
+      margin: 0 15px;
+    }
+  }
+</style>
+
+<div id="wrapper">
+  <main>
+    {% set data = load_data(path="content/books/data.json", format="json") %}
+    <!-- <h1 class="booksd">Books</h1> -->
+	<h1>Books</h1>
+    <div class="books-desc">
+    <p class="desc">I have unfailingly discovered solace between the pages, and here are some cherished companions that have been with me over the years. In the silent refuge of literature, where words weave emotions and stories unfold, each book has been a steadfast friend, offering comfort and new perspectives. </p>
+    <p class="desc">Each one, a testament to the enduring bond between reader and the written word, has left an indelible mark on the chapters of my life.</p>
+  </div>
+    <div class="image-container">
+      {% for book in data %}
+      <div class="card">
+        <div class="img-container">
+          <img src="{{ book.cover }}" alt="Books">
+        </div>
+        <div class="text-container">
+          <p class="book-name">{{ book.title }}</p>
+          <p class="book-author">{{ book.authors[0].name }}</p>
+        </div>
+        
+        </div>
+      {% endfor %}
+    </div>
+  </main>
+  {% include "footer.html" %}
+</div>
+{% endblock content %}
+

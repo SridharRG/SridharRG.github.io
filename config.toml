@@ -1,0 +1,49 @@
+base_url = "https://bixxzy.sotcpu.me/"
+compile_sass = false
+minify_html = true
+generate_feeds = true
+default_language = "en"
+author = 'Sridhar RG'
+taxonomies = [
+    {name = "tags", feed = false},
+]
+
+[languages.fr]
+# weight = 2
+# languageName = "Français"
+# languageCode = "fr"
+
+[markdown]
+render_emoji = true
+external_links_target_blank = true
+smart_punctuation = true
+highlight_code = false
+highlight_theme = "gruvbox-dark"
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
+[link_checker]
+internal_level = "warn"
+
+[extra]
+author = "Sridhar RG"
+display_author = true
+
+favicon = "favicon.ico"
+image = ""
+
+default_theme = "dark"
+list_pages = false
+twitter_card = false
+
+header_nav = [
+  { url = "/", name_en = "Home", name_fr = "/accueil/" },
+  { url = "/blog", name_en = "Blog", name_fr = "/blog" },
+  { url = "/readinglog", name_en = "Books", name_fr = "/livres" },
+#  { url = "/quotes", name_en = "/quotes", name_fr = "/notes" },
+  { url = "/projects", name_en = "Projects", name_fr = "/concernant" },
+  { url = "/socials", name_en = "Socials", name_fr = "/contactez" }
+]

@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h1>{{ section.title }}</h1>
+{% if config.generate_feed %}
+  
+    <a class="no-style" target="_blank" rel="noopener noreferrer" href="{{ get_url(path="atom.xml", trailing_slash=false) }}" title="Subscribe via RSS for updates."><svg class="icons"><use href="{{ get_url(path='icons.svg#rss', trailing_slash=false) | safe }}"></use></svg></a>
+  
+  {% endif %}
+</div>
+{{ section.content | safe }}
+
+{% if paginator %}
+{% set pages = paginator.pages %}
+{% else %}
+{% set pages = section.pages %}
+{% endif %}
+
+<ul class="title-list">
+{% for page in pages %}
+  <li>
+    <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+
+{% if paginator %}
+<div class="accent-data">{% if paginator.previous %}<a href="{{ paginator.first }}">⥶</a> &nbsp <a href="{{ paginator.previous }}"><</a>{% endif %} &nbsp {{ paginator.current_index }} / {{ paginator.number_pagers }} &nbsp {% if paginator.next %}<a href="{{ paginator.next }}">></a> &nbsp <a href="{{ paginator.last }}">⥸</a>{% endif %}</div>
+{% endif %}
+{% endblock content %}
