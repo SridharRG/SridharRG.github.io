@@ -1,0 +1,8 @@
+_site/
+.sass-cache
+Gemfile.lock
+*.gem
+draft*
+.vitepress/dist
+.vitepress/cache
+node_modules
