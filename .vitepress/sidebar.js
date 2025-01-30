@@ -95,15 +95,6 @@ export const sidebar = [
     ]
   },
   {
-    "text": "Code",
-    "items": [
-      {
-        "text": "Flask Docs",
-        "link": "/code/flask_docs"
-      }
-    ]
-  },
-  {
     "text": "Data Structures",
     "items": [
       {

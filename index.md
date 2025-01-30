@@ -14,11 +14,8 @@
 <td><a href="#books">Books</a><sup>[1]</sup></td>
 </tr>
 <tr>
-<td><a href="#code">Code</a><sup>[1]</sup></td>
 <td><a href="#data-structures">Data Structures</a><sup>[3]</sup></td>
 <td><a href="#devops">Devops</a><sup>[2]</sup></td>
-</tr>
-<tr>
 <td><a href="#networking">Networking</a><sup>[1]</sup></td>
 </tr>
 </tbody>
@@ -68,15 +65,6 @@
 
 <ul>
 <li><a href="/books/essentialism">Essentialism</a></li>
-</ul>
-
-
-
-
-### Code
-
-<ul>
-<li><a href="/code/flask_docs">Flask Docs</a></li>
 </ul>
 
 
