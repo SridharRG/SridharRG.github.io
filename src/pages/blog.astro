@@ -1,0 +1,20 @@
+---
+import SharedLayout from '@/layouts/shared.astro';
+import BlogList from '@/modules/blog/blog-list.astro';
+import Hero from '@/modules/blog/hero.astro';
+
+let title = 'Gudielines - SOTC';
+let description =
+  'The participants should adhere and follow the guidelines of the SOTC hackathon ';
+let keywords = [
+  'sotc hackathon guidelines',
+  'sotc hackathon',
+];
+---
+
+<SharedLayout title={title} description={description} keywords={keywords}>
+  <main>
+    <Hero />
+    <BlogList />
+  </main>
+</SharedLayout>

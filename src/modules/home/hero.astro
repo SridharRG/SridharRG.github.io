@@ -1,0 +1,40 @@
+---
+import { BackgroundBeams } from '@/components/ui/background-beams';
+import { Pen, User } from 'lucide-astro';
+import { Link } from '@/components/ui/link';
+---
+
+<section class='h-screen bg-neutral-950 relative flex items-center justify-center'>
+  <div class='w-11/12 max-w-3xl mx-auto relative z-10 text-center'>
+    <h1
+      class='text-6xl pb-2 md:pb-4 lg:text-8xl 2xl:text-9xl font-bold text-transparent bg-clip-text bg-gradient-to-b from-neutral-100 to-neutral-800'
+    >
+      <span class='sr-only'>sotcpu</span> SOTC Hackathon<span class='sr-only'>.me</span>
+    </h1>
+
+    <p class='font-medium text-balance text-neutral-500 pb-4'>
+      Exciting Prize Pool upto Rs. 4000
+    </p>
+
+    <div class='flex items-center justify-center gap-2'>
+      <Link
+        variant='secondary'
+        target='_blank'
+        rel='noopener noreferrer'
+        href='https://opnform.com/forms/sotc-hackathon25-f8ujrb'
+        title="Register for sotc hackathon"
+        className='group max-md:order-2'
+      >
+        <User size='1rem' class='mr-1.5 shrink-0' />
+        Register now
+      </Link>
+
+      <Link href='https://gitlab.com/sotc/hackathon/-/raw/main/guidelines/sotc-hackathon-guidelines.pdf?ref_type=heads&inline=false' title="Guidelines for hackathon" variant='ghost' className='group'>
+        <Pen size='0.975rem' class='mr-1.5 shrink-0' />
+        Guidelines
+      </Link>
+    </div>
+  </div>
+
+  <BackgroundBeams client:idle />
+</section>

@@ -1,0 +1,45 @@
+---
+import { Image } from 'astro:assets';
+---
+
+<section class='flex flex-col md:flex-row items-center w-11/12 py-20 mx-auto max-w-5xl'>
+  <div class='w-full'>
+    <h2 class='text-4xl pb-6 md:pb-8 font-bold 2xl:text-5xl'>Who we are</h2>
+
+    <div class='max-w-2xl text-neutral-100 space-y-4 md:space-y-6'>
+      <p class='text-neutral-400 font-medium'>
+        SOTC is a Tech Community that strengthens the Free and Open Source Software ecosystem in Pondicherry University. We are a group of people who like to discuss, develop and provide guidance on free software.
+      </p>
+
+      <p class='text-neutral-400 font-medium'>
+        SOTC was started at 2018 in Pondicherry University with help of our Free Software Enthusiasts from      <a href="https://fshm.org" target="_blank" rel="noopener noreferrer" class="border-b border-neutral-300 text-neutral-50">FSHM</a>.
+      </p>
+
+      <h3 class='text-3xl pb-4 md:pb-6 font-bold 2xl:text-4xl'>What do we do?</h3>
+
+      <p class='text-neutral-400 font-medium'>
+        We discuss about tech with free software through workshops, weekly sessions and some activities like Study Circle. We empower individuals to explore FOSS, develop new skills, and make a meaningful impact.
+      </p>
+
+      <!-- <p class='text-neutral-400 font-medium'>
+        We have a Gitlab, where we share our work.
+      </p> -->
+
+    </div>
+  </div>
+
+  <figure class="w-full px-4 md:px-0 sm:pt-8 md:pt-0 lg:pl-40">
+    <Image
+      width={1920}
+      height={1080}
+      loading="lazy"
+      decoding="async"
+      class="w-full h-auto object-cover rounded"
+      src="/fosscon.jpg"
+      alt="SOTC folks with FSHM in the FOSSCon'24 at Puducherry"
+      title="SOTC folks with FSHM in the FOSSCon'24 at Puducherry"
+    />
+    <figcaption class="text-sm font-medium text-neutral-400 pt-2 text-center">
+      <em>SOTC folks with FSHM in the FOSSCon'24 at Puducherry</em>
+    </figcaption>
+  </figure> 
